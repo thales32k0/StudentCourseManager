@@ -15,7 +15,7 @@ Este projeto é uma aplicação Spring Boot para gerenciar estudantes e seus res
 * **Spring Web**: [![Maven Central](https://img.shields.io/maven-central/v/org.springframework.boot/spring-boot-starter-web.svg?style=flat-square)](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web) Para construção da API REST.
 * **Spring Data JPA**: [![Maven Central](https://img.shields.io/maven-central/v/org.springframework.boot/spring-boot-starter-data-jpa.svg?style=flat-square)](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa) Para persistência de dados utilizando o padrão JPA.
 * **H2 Database**: [![H2 Database](https://img.shields.io/badge/H2%20Database-In--Memory-blue.svg?style=flat-square&logo=h2&logoColor=white)](http://www.h2database.com/html/main.html) Banco de dados em memória para desenvolvimento e testes.
-* **Validation**: Para realizar validações de dados através de anotações (`@NotNull`, `@Email`, etc.).
+* **Validation**: Para realizar validações de dados através de anotações (`@Name`, `@Email`, etc.).
 * **Lombok** (Opcional): Biblioteca Java para reduzir a quantidade de código boilerplate (getters, setters, construtores, etc.).
 
 ## Pré-requisitos
