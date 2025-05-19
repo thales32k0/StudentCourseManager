@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StudentcoursemanagerApplication {
+public class StudentCourseManagerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(StudentcoursemanagerApplication.class, args);
